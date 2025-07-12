@@ -1,0 +1,11 @@
+# Ignora tutto
+*
+
+# Ma non ignorare questi file specifici
+!counter.py
+!functional.py
+!main.py
+!requirements.txt
+
+# Evita di ignorare le cartelle (necessario se i file sono in sottocartelle)
+!*/

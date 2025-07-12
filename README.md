@@ -32,8 +32,8 @@ Per eseguire il progetto in locale, segui questi passaggi:
 
 1.  **Clona la repository**
     ```sh
-    git clone [https://github.com/tuo-utente/tuo-repo.git](https://github.com/tuo-utente/tuo-repo.git)
-    cd tuo-repo
+    git clone [https://github.com/pcbisgood/BSscraper.git)
+    cd BSscraper
     ```
 
 2.  **Crea un ambiente virtuale (consigliato)**
